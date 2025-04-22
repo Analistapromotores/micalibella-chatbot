@@ -53,3 +53,4 @@ if uploaded_file:
             st.dataframe(coincidencias)
 else:
     st.info("👆 Sube tu archivo JSON de credenciales para comenzar.")
+                                                                                                                                                                                                                                                                                            
